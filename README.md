@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Ms. Nandani Jalan (Ex-Intern at GOOGLE). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtu.be/Ar43AiqTTQc"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
+<a href="https://youtu.be/Ar43AiqTTQc"> <img src="https://github.com/Raghu-ritik/shapeAI_Python_Data_Science/blob/main/data%20analysisi%20postor.jpeg"> </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li>Data Science
